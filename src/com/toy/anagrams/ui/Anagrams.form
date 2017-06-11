@@ -80,7 +80,7 @@
       <SubComponents>
         <Component class="javax.swing.JLabel" name="scrambledLabel">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Palabra mezclada:"/>
+            <Property name="text" type="java.lang.String" value="Palabra desordenda:"/>
           </Properties>
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignGridBagLayout" value="org.netbeans.modules.form.compat2.layouts.DesignGridBagLayout$GridBagConstraintsDescription">
@@ -105,7 +105,7 @@
             <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
               <ComponentRef name="guessedWord"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Tu intento:"/>
+            <Property name="text" type="java.lang.String" value="Ord&#xe9;nala:"/>
           </Properties>
           <Constraints>
             <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignGridBagLayout" value="org.netbeans.modules.form.compat2.layouts.DesignGridBagLayout$GridBagConstraintsDescription">
